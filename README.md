@@ -101,6 +101,16 @@ npx skills add alchaincyf/chenze-skill
 
 ---
 
+## 请作者喝杯咖啡，多少都可以！
+
+<div align="center">
+<img src="reward.png" alt="赞赏码" width="300" />
+<br>
+感谢您的支持，您的鼓励是我持续更新的动力！
+</div>
+
+---
+
 ## 仓库结构
 
 ```
@@ -108,6 +118,7 @@ npx skills add alchaincyf/chenze-skill
 ├── README.md
 ├── SKILL.md                              # 核心指令集
 ├── LICENSE                               # MIT 授权
+├── reward.png                            # 赞赏码 [NEW]
 ├── references/
 │   └── research/                         # 6个深度调研文件
 │       ├── 01-livestreams.md
